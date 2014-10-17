@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[uji:home|Door43 (uji)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-uji|d43-uji repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-uji/archive/master.zip|d43-uji.zip]]
+
+**Recent Changes**
+{{changes>ns = uji}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/uji|Ethnologue data]]
+
